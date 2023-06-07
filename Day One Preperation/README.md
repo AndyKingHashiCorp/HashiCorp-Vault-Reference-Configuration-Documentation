@@ -1,0 +1,1 @@
+This guide describes recommended best practices for infrastructure architects and operators to follow when deploying Vault using the Integrated Storage (Raft) storage backend in a production environment or Kubernetes in a production environment

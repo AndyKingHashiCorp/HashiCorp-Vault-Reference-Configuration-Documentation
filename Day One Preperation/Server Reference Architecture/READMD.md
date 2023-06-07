@@ -1,4 +1,5 @@
-System Requirments & Reference Architecture
+System Requirments & Reference Architecture for Physical or Virtual Machines
+
 
 
 
