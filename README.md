@@ -1,4 +1,4 @@
-# Hashicorp Vault Reference Configuration Documentation
+# HashiCorp Vault Reference Configuration Documentation
 
 Day One Preperation
 
