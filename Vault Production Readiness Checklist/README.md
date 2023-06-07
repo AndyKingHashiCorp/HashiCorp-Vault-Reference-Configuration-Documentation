@@ -2,7 +2,7 @@
 This checklist will prepare you launch production-ready vault clusters into any major Cloud provider or on Premise
 
 1. [Infrastructure Architecture](#Infrastructure-Architecture)
-1. [Consul Storage Backend](#Consul-Storage-Backend)
+1. [Integrated Storage Backend](#Integrated-Storage-Backend)
 1. [Load Balancing](#Load-Balancing)
 1. [Monitoring and Alerting](#Monitoring-and-Alerting)
 1. [Configuration Management](#Configuration-Management)
